@@ -529,6 +529,10 @@ tsutils@^2.27.2:
   dependencies:
     tslib "^1.8.1"
 
+typescript@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.0.3.tgz#4853b3e275ecdaa27f78fda46dc273a7eb7fc1c8"
+
 ul@2.1.0, ul@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/ul/-/ul-2.1.0.tgz#2e9c5039e39512840aefb862f25938e118bc563f"
