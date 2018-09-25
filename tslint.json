@@ -6,7 +6,6 @@
     "jsRules": {},
     "rules": {
         "no-console": [false],
-        "no-unused-variable": [true, "error"],
         "quotemark": [true, "single"],
         "semicolon": [true, "always"]
     },

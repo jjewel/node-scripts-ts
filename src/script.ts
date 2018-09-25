@@ -10,7 +10,6 @@ interface IDogBreedsResponse {
 }
 
 (async () => {
-  const test: number = 1;
   const dogBreeds: IDogBreedsResponse = await fetch('https://dog.ceo/api/breeds/list/all', {
     method: 'GET',
   })
